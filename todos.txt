@@ -1,0 +1,8 @@
+prepare
+play
+fixplay
+Make pasta
+make pizza
+ciao
+prepare pasta
+fix the lamp
